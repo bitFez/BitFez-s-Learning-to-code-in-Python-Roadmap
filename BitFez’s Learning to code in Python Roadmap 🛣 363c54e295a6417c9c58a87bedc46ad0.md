@@ -70,6 +70,9 @@ To begin with, it’s perfectly fine to start with Repl and then move on to anot
 - [ ]  [22 - writing to files](BitFez%E2%80%99s%20Learning%20to%20code%20in%20Python%20Roadmap%20%F0%9F%9B%A3%20363c54e295a6417c9c58a87bedc46ad0/22%20-%20writing%20to%20files%20ec703ea7b9df424ba3fbe4b3ce4c9afc.md)
 
 ## Practice, Practice & Practice
+- [OCR Coding Challenges booklet](https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf)
+- [OCR programming tasks 2019-20](https://www.ocr.org.uk/Images/503195-programming-project-tasks-june-2019-and-june-2020.pdf)
+- [AQA 2017 Computing GCSE Cows & Bulls Coursework task](https://teachinglondoncomputing.files.wordpress.com/2017/06/aqa-nea-task-2.pdf)
 
 # Recommended Reading
 
