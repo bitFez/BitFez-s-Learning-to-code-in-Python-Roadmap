@@ -6,7 +6,7 @@ Often these students will struggle to keep up with the course content without th
 
 Computing is for everyone and it shouldn't seem impossible to learn to code. Whether you’re a Computing student or not, this course is set up to teach you the basics of Python programming.
 
-If you like what you see, please share this with people who you think may benefit. If not please drop me a message on Teams if 
+If you like what you see, please share this with people who you think may benefit. If not please raise an issue on GitHub https://github.com/bitFez/BitFez-s-Learning-to-code-in-Python-Roadmap/issues 
 
 The roadmap has been split into several weeks worth of tasks. If you are a noob coder, you should not be doing less than 10 hours a week on this roadmap (and other resources alongside it). 
 
@@ -14,7 +14,7 @@ The whole point of this, is to help you get those basic GCSE level programming s
 
 </aside>
 
-# The Roadmap
+# The Roadmap (Updated 13/02/2022)
 
 ## Step 0 - The setup
 

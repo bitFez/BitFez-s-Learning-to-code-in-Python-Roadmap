@@ -1,5 +1,9 @@
 # BitFez-s-Learning-to-code-in-Python-Roadmap
 
+The roadmap is published as a template on Notion.so. You can access it https://bitfez.notion.site/BitFez-s-Learning-to-code-in-Python-Roadmap-363c54e295a6417c9c58a87bedc46ad0
+
+Be sure to check the date on the main page of your version of the template in case it has been updated with new content.
+
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
