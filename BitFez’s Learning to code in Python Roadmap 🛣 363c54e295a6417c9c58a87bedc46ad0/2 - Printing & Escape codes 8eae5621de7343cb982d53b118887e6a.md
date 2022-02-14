@@ -65,7 +65,7 @@ print("She said, \"she loves you\", and you know that can be bad")
 output the following:
 
 - [ ]  Using single quotes → ‘Bob’s Burgers’
-- [ ]  Using single quotes → ‘Be sure to like and subscribe to BitFez’s YouTube channel’
+- [ ]  Using single quotes → ‘Be sure to like and subscribe to BitFez’s YouTube channel, “CodeFez”’
 - [ ]  Using double quotes → “BitFez’s most commonly used phrase in class is “<insert here>”, which just demonstrates how much of a humble person he is”
 - [ ]  Using double quotes → “BitFez is also commonly head criticising those that make a “Rookie <insert here>”, although he is often referring to himself”
 
