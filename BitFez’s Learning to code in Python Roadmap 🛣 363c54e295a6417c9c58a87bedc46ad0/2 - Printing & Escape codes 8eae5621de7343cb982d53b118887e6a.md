@@ -23,7 +23,7 @@ for example:
 
 What if I wanted to use an apostrophe or a quote in my string?
 
-For example what if I wrote `print('I'm Groot')?`
+For example what if I wrote `print('I'm Groot')`?
 
 Python would think that the string would start at the first apostrophe and end at the second. It would cause an error because it would not be sure about what the remainder of the text was.
 
