@@ -14,7 +14,7 @@ The whole point of this, is to help you get those basic GCSE level programming s
 
 </aside>
 
-# The Roadmap (Updated 13/02/2022)
+# The Roadmap (Updated 14/02/2022)
 
 ## Step 0 - The setup
 
@@ -103,10 +103,13 @@ This document was made using many of my own resources and ideas but ideas have b
 - [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
 - 
 
-# TODO
 
-- [ ]  Add annotated screenshot on repl page
-- [ ]  
+
+
+
+
+
+
 
 - Embedded pages are hidden here
     
