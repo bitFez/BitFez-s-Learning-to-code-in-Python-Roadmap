@@ -32,7 +32,7 @@ coins = coins + 1
 
 In the example above, `coins` is a variable that could constantly change throughout the game being played.
 
-Sometimes our programs will need to refer to a variable that doesn.t change in value while the program is running. This called a constant.
+Sometimes our programs will need to refer to a variable that doesn't change in value while the program is running. This called a constant.
 
 For example a program that calculates the cost of meal. If tax needs to be added to the cost.
 
